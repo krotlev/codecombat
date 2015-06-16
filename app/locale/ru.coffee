@@ -1,12 +1,12 @@
 module.exports = nativeDescription: "русский", englishDescription: "Russian", translation:
   home:
-    slogan: "Научитесь программировать, играя в игру"
-    no_ie: "CodeCombat не работает в IE8 или более старых версиях. Нам очень жаль!" # Warning that only shows up in IE8 and older
-    no_mobile: "CodeCombat не приспособлен для работы на мобильных устройствах и может не работать!" # Warning that shows up on mobile devices
+    slogan: "Учитесь программировать играя"
+    no_ie: "CodeCombat не работает в Internet Explorer 8 и более старых версиях. Очень жаль!" # Warning that only shows up in IE8 and older
+    no_mobile: "CodeCombat не приспособлен для работы на мобильных устройствах." # Warning that shows up on mobile devices
     play: "Играть" # The big play button that opens up the campaign view.
-    old_browser: "Ой, ваш браузер слишком стар для запуска CodeCombat. Извините!" # Warning that shows up on really old Firefox/Chrome/Safari
-    old_browser_suffix: "Вы всё равно можете попробовать, но, скорее всего, это не будет работать."
-    ipad_browser: "Плохие новости: CodeCombat не запускается в браузере IPad. Хорошие новости: наше нативное приложение для IPad ожидает одобрения от Apple."
+    old_browser: "CodeCombat не приспособлен для работы на вашем браузере. Извините!" # Warning that shows up on really old Firefox/Chrome/Safari, also Maxthon, Opera and etc.
+    old_browser_suffix: "Попробуйте, хотя врядли это будет работать должным образом."
+    ipad_browser: "CodeCombat не запускается в браузере IPad, но нативное приложение для IPad уже ожидает одобрения от Apple."
     campaign: "Кампания"
     for_beginners: "Новичкам"
     multiplayer: "Мультиплеер" # Not currently shown on home page
